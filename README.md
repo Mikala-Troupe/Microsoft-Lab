@@ -14,11 +14,5 @@ The Microsoft Lab project aimed to establish a controlled environment for learni
 
 - Microsoft Windows Defender and Firewall for setting up cybersecurity defenses and updates.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Project Certificate
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
