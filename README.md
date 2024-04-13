@@ -16,3 +16,5 @@ The Microsoft Lab project aimed to establish a controlled environment for learni
 
 ## Project Certificate
 
+![WindowsDefenderCert](https://github.com/Mikala-Troupe/Microsoft-Lab/assets/145818034/a951cc27-58e8-461e-9138-a02f2a71841d)
+
